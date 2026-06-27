@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Server_che_SERVE.aternos.me:39795",
+    "ip": "Server_che_SERVE.aternos.me",
     "port": 39795,
     "version": "26.2",
     "try-creative": false
